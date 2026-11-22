@@ -1,6 +1,6 @@
 <div align="center">
 
-# dsh-purge Community
+# dsh-purge-merged
 
 **让 AI 更专注地辅助你的学习与动手实验。**
 
