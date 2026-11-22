@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Full Purge · Unlocked",
+    "description": "Full host-patch sweep: approvals auto-granted, sandbox and filesystem fences lifted, prompt injection kept in every mode, plan mode and observation policy unblocked; ships 64 red-team tools and 23 skills with per-preset control.",
+    "detail": "README.md"
+  }
+}
