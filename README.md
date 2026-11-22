@@ -9,7 +9,7 @@
 [![Release](https://img.shields.io/github/v/release/kingcharleslzy-ai/dsh-purge?label=release)](https://github.com/kingcharleslzy-ai/dsh-purge/releases)
 [![Checks](https://github.com/kingcharleslzy-ai/dsh-purge/actions/workflows/community.yml/badge.svg)](https://github.com/kingcharleslzy-ai/dsh-purge/actions/workflows/community.yml)
 
-[下载量](https://img.shields.io/github/downloads/lwy521/dsh-purge-merged/total?logo=github)
+![下载量](https://img.shields.io/github/downloads/lwy521/dsh-purge-merged/total?logo=github)
 ![许可证](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![版本号](https://img.shields.io/github/v/release/lwy521/dsh-remote-mcp-manager?logo=github)
 <a href="https://github.com/ccch1mneyyy/dsh-go/stargazers"><img alt="GitHub Star 数" src="https://img.shields.io/github/stars/lwy521/dsh-remote-mcp-manager?style=flat-square&logo=github&label=Star&color=4B67B4&labelColor=2B3245"></a>
